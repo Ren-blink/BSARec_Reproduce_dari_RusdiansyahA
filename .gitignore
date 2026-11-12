@@ -2,6 +2,8 @@
 src/data/
 data/
 *.npy
+notebooks/raw/
+notebooks/processed/
 
 # Model dan artefak training (simpan di Google Drive / GitHub Release bila perlu)
 *.pt
@@ -22,3 +24,4 @@ sample_data/
 
 # Clone repo upstream di dalam folder ini: jangan ikut di-commit
 BSARec/
+
